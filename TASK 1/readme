@@ -1,1 +1,9 @@
-
+Task #1 ( 2 days)
+Create a your own String class which can do the below functionalities.
+1. print duplicate characters from a string 
+2. reverse a string using recursion
+3. count the occurrence of all characters in a string
+4. find all the permutations of characters in a string
+5. Write a Java program to find Length of the longest substring without repeating
+characters.
+ 6. Write a Java program to read two strings append them together and return the result. If the strings are different lengths, remove characters from the beginning of longer string and make them equal length.
